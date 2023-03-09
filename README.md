@@ -1,4 +1,4 @@
-# github-user-search-app-REACT
+# tip-calculator-app
 
 ## Links
 
